@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on poly/hp<br>I'm looking to collaborate with others developers<br>I'm currently learning mobile apps develop<br>I'm looking for team working 
+🤘🏽I'm currently working on poly/hp<br>🤘🏽I'm looking to collaborate with others developers<br>🤘🏽I'm currently learning mobile apps develop<br>🤘🏽I'm looking for team working 
 
 
 ## 🌐 Socials:
