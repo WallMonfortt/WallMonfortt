@@ -1,5 +1,7 @@
 # 💫 About Me:
-🤘🏽I'm currently working on poly/hp<br>🤘🏽I'm looking to collaborate with others developers<br>🤘🏽I'm currently learning mobile apps develop<br>🤘🏽I'm looking for team working 
+🤘🏽I'm currently working on poly/hp <div style="display: flex; justify-content: center; align-items: center;">
+   <img src="https://www.cloudcommunications.com/wp-content/uploads/2023/02/Poly-HP-Logo.png" width="10%" style="border-radius: 50%;">
+</div>🤘🏽I'm looking to collaborate with others developers<br>🤘🏽I'm currently learning mobile apps develop<br>🤘🏽I'm looking for team working 
 
 
 ## 🌐 Socials:
