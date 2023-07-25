@@ -17,10 +17,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🤘🏽
+<img src="https://media3.giphy.com/media/2PmMiUc9OH4lO/giphy.gif?cid=ecf05e47rsdofg8ltxy2kmppq3j8oa742oax66v0uc1ik0oz&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="johnny depp film GIF" style="width: 500px; height: 249px; left: 0px; top: 0px; opacity: 0;">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WallMonfortt&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
