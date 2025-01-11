@@ -1,7 +1,44 @@
 # 💫 About Me:
-🤘🏽I'm currently working on poly/hp <div style="display: flex; justify-content: center; align-items: center;">
-   <img src="https://www.cloudcommunications.com/wp-content/uploads/2023/02/Poly-HP-Logo.png" width="10%" style="border-radius: 50%;">
-</div>🤘🏽I'm looking to collaborate with others developers<br>🤘🏽I'm currently learning mobile apps develop<br>🤘🏽I'm looking for team working 
+```swift
+import Foundation
+
+class Developer {
+    var name: Jose Gualberto Monfortte
+    var skills: ["HTML", "CSS", "JS", "Node", "React", "Flutter", "Python"]
+    var isLookingToCollaborate: True
+    var isLearning: True
+    var isLookingForTeamwork: True
+
+    func introduce() {
+        print("Hi, I'm \(name). I'm Software Enginner")
+    }
+
+    func learnNewSkill(skill: String) {
+        skills.append(skill)
+        print("\(name) is now learning \(skill).")
+    }
+
+    func collaborate() {
+        if isLookingToCollaborate {
+            print("\(name) is looking to collaborate with other developers.")
+        } else {
+            print("\(name) is currently not looking for collaboration.")
+        }
+    }
+}
+
+developer.introduce()
+developer.learnNewSkill(skill: "Master in Software Development")
+developer.collaborate()
+
+```
+
+```console
+dev:~$ Friendly introduction
+Hi, I'm Jose Gualberto Monfortte. I'm Software Enginner.
+I'm looking to collaborate with other developers.
+I'm studying a Software Dev Master's Degree
+```
 
 
 ## 🌐 Socials:
