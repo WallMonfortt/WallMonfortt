@@ -4,6 +4,7 @@ import Foundation
 
 class Developer {
     var name: Jose Gualberto Monfortte
+    var nikName: Wal Monfortt
     var skills: ["HTML", "CSS", "JS", "Node", "React", "Flutter", "Python"]
     var isLookingToCollaborate: True
     var isLearning: True
