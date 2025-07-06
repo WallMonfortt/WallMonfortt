@@ -36,6 +36,7 @@ developer.collaborate()
 
 ```console
 dev:~$ Friendly introduction
+
 Hi, I'm Jose Gualberto Monfortte. I'm Software Enginner.
 I'm looking to collaborate with other developers.
 I'm studying a Software Dev Master's Degree
