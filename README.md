@@ -35,6 +35,7 @@ developer.collaborate()
 
 ```
 
+
 ```console
 dev:~$ Friendly introduction
 
